@@ -31,3 +31,6 @@ $ git checkout develop
 Realizando merge
 
 $ git merge master
+
+Criando tarefa DESENV-02
+
